@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nykz/Nykz/main/banner.jpeg" alt="Nikhil Agarwal | Software Engineer and Educator" />
+  <img src="https://raw.githubusercontent.com/Nykz/Nykz/main/banner.png" alt="Nikhil Agarwal | Software Engineer and Educator" />
 </p>
 
 
