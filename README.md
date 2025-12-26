@@ -1,35 +1,61 @@
-<h1 align="center">Nikhil Agarwal</h1>
-<h3 align="center">Senior Full Stack Engineer | AI Architect | Educator</h3>
+# Nikhil Agarwal
 
-<p align="center">
-  <b>Building scalable, agentic AI systems and cross-platform mobile experiences.</b><br>
-  Founder of <i>Coding Technyks</i>. Helping developers move from tutorial-hell to production-ready code.
-</p>
+### Senior Full-Stack Engineer | AI Systems Architect | Educator
 
----
-## 🌐 Socials
+I design and build **production-grade systems** across web, mobile, and AI.
 
-[![Website](https://img.shields.io/badge/Website-0A1AFF?logo=google-chrome&logoColor=white)](https://codingtechnyks.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/coding-technyks)
-[![YouTube](https://img.shields.io/badge/-YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/codingtechnyks) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:technyks@gmail.com) 
+Founder of **Coding Technyks**.  
+I help developers move from tutorial-driven coding to **real-world engineering** by focusing on architecture, system design, and decision-making, not just syntax.
 
-
-### Technical Stack
-
-I build with a hybrid stack that balances performance and development speed.
-
-| **Domain** | **My Toolkit** |
-| :--- | :--- |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-gray?style=social&logo=flutter) ![Ionic](https://img.shields.io/badge/Ionic-gray?style=social&logo=ionic) ![React Native](https://img.shields.io/badge/React%20Native-gray?style=social&logo=react) |
-| **Frontend** | ![Angular](https://img.shields.io/badge/Angular-gray?style=social&logo=angular) ![React](https://img.shields.io/badge/React-gray?style=social&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-gray?style=social&logo=typescript) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-gray?style=social&logo=node.js) ![Laravel](https://img.shields.io/badge/Laravel-gray?style=social&logo=laravel) |
-| **Data & Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-gray?style=social&logo=firebase) ![Supabase](https://img.shields.io/badge/Supabase-gray?style=social&logo=supabase) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=social&logo=postgresql) |
+[Website](https://codingtechnyks.com) •
+[LinkedIn](https://www.linkedin.com/company/coding-technyks) •
+[YouTube](https://www.youtube.com/codingtechnyks) •
+[Email](mailto:technyks@gmail.com)
 
 ---
 
-### 🎯 What you will find here
-I bridge the gap between theory and production. My repositories focus on:
-* **Real-World Source Code:** Complete applications (e-commerce, booking systems) over simple "Hello World" examples.
-* **Course Materials:** Structured codebases for my students on Udemy and YouTube.
-* **Hybrid Stack:** Deep dives into **Ionic, Flutter, Laravel, and Node.js**
+## What I Do
+
+- Architect **scalable full-stack applications**
+- Build **cross-platform mobile systems** used in real products
+- Design **agentic AI systems** using RAG, MCP, and tool-based orchestration
+- Teach developers **how engineers think**, not just how frameworks work
+
+Writing code is common.  
+Designing systems is not.
+
+---
+
+## Core Focus Areas
+
+### Frontend and Mobile Architecture
+- Angular for large-scale, maintainable applications
+- Ionic for production-ready cross-platform mobile apps
+- React where it fits the system
+
+### Backend and System Design
+- Node.js for scalable backend services
+- API-driven system architecture
+- Authentication, data access, and service boundaries designed for growth
+- Clean, modular backend structures
+
+### Agentic AI and Intelligent Systems
+- Agentic AI architecture
+- Retrieval-Augmented Generation pipelines
+- Model Context Protocol (MCP)
+- Tool orchestration, memory layers, and system control flows
+- OpenAI and Gemini-based systems
+
+### Data and Infrastructure
+- Relational data modeling with PostgreSQL
+- NoSQL where appropriate
+- Cloud-ready backend design
+- Real-time systems using managed platforms
+
+---
+
+## Engineering Philosophy
+
+- Frameworks change. Systems last.
+- AI does not replace engineers. It exposes weak ones.
+- Clean architecture beats clever code.
